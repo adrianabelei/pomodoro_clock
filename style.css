@@ -1,0 +1,38 @@
+body{
+    background-color: #f96;
+    color: white;
+    font-family: 'Josefin Slab';
+  }
+  
+ 
+  #start{
+    margin:10px;
+  }
+
+  .header{
+    vertical-align: middle;
+ 
+  }
+  .text-center{
+     
+      background-color: gray;
+      height: 400px;
+      width: 400px;
+      border-top-left-radius: 5em;
+      border-top-right-radius: 5em;
+      margin-right:auto;
+      margin-left:auto;
+      margin-top:20px;
+      padding-top:90px;
+      border-radius: 50%;
+      
+  }
+
+#timeDiv{
+    display:inline-flex;
+}
+
+
+#breakDiv{
+    display:inline-flex;
+}
