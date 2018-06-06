@@ -1,2 +1,3 @@
-# pomodoro_clock as part of the curriculum of Restart Network
+# pomodoro_clock as part of Restart Network Program. 
+# Javascript
 https://pomodoroab.herokuapp.com/#
